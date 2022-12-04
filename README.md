@@ -1,9 +1,14 @@
 # raccoon-shop
-너굴 상점
+너굴 상점 to-do list
 
-공부하면서 만든 to-do list 기반 동물의 숲 너구리 상점을 만들어 봤습니다.
-io로 옮기느라 원래 있던 파일을 복붙 한 것입니다.
+닌텐도 스위치 동물의 숲 게임을 하던 도중
+동물의 숲 컨셉의 ToDo list가 있었으면 좋겠다고 생각하여 만들게 되었습니다.
 
-저작권은 저에게 있으며 무단 복제 시 법원으로 갑니다 땅땅땅!!
+사용 기술: HTML, CSS, JavaScript
+제작 기간: 2022.03
+
+![image](https://user-images.githubusercontent.com/53555375/205497712-ac55d120-b06e-440e-9b93-101717059abd.png)
+
+주소: https://kangmingu01.github.io/raccoon-shop/
 
 이미지 출처: pinterest
