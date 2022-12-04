@@ -11,4 +11,4 @@
 
 주소: https://kangmingu01.github.io/raccoon-shop/
 
-이미지 출처: pinterest
+동물의 숲 관련 이미지 출처: pinterest
